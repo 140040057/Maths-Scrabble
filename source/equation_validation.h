@@ -1,0 +1,182 @@
+bool validate(int a, int b, int c, int d,int location[],int pos_equal_sign, float numbers[],char current_array[][17])
+{
+    float RHS=0,LHS = numbers[0];
+    int j=0,k=1;
+    if(c==d && a!=b)
+    {
+        // calculting LHS
+        bool LHS_flag = true;
+        for(j,k; LHS_flag; j++)
+        {
+            if(current_array[location[j]][c] == '+')
+            {
+                LHS = LHS + numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c] == '-')
+            {
+                LHS = LHS - numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c] == 'x')
+            {
+                LHS = LHS * numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c]== '÷')
+            {
+                LHS = LHS / numbers[k];
+                k++;
+                continue;
+            }
+
+            if(j==pos_equal_sign)
+            {
+                LHS_flag = false;
+                break;
+            }
+        }
+
+        j = pos_equal_sign + 1;
+        RHS = numbers[k];
+        k++;
+
+        // calculating RHS
+        bool RHS_flag = true;
+        for(j,k; RHS_flag , j<6; j++)
+        {
+            if(current_array[location[j]][c] == '+')
+            {
+                RHS = RHS + numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c] == '-')
+            {
+                RHS = RHS - numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c] == 'x')
+            {
+                RHS = RHS * numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[location[j]][c]== '÷')
+            {
+                RHS = RHS / numbers[k];
+                k++;
+                continue;
+            }
+
+            if(location[j] == NULL)
+            {
+                RHS_flag = false;
+                break;
+            }
+        }
+    }
+
+    if(c!=d && a==b) // for vertical equations
+    {
+        bool LHS_flag = true;
+        for(j,k; LHS_flag; j++)
+        {
+            if(current_array[a][location[j]] == '+')
+            {
+                LHS = LHS + numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]] == '-')
+            {
+                LHS = LHS - numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]] == 'x')
+            {
+                LHS = LHS * numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]]== '÷')
+            {
+                LHS = LHS / numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]] == '=')
+            {
+                LHS_flag = false;
+                break;
+            }
+        }
+
+
+        j = pos_equal_sign + 1;
+        RHS = numbers[k];
+        k++;
+        bool RHS_flag = true;
+        for(j,k; RHS_flag , j<6; j++)
+        {
+            if(current_array[a][location[j]] == '+')
+            {
+                RHS = RHS + numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]] == '-')
+            {
+                RHS = RHS - numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]] == 'x')
+            {
+                RHS = RHS * numbers[k];
+                k++;
+                continue;
+            }
+
+            if(current_array[a][location[j]]== '÷')
+            {
+                RHS = RHS / numbers[k];
+                k++;
+                continue;
+            }
+
+            if(location[j] == NULL)
+            {
+                RHS_flag = false;
+                break;
+            }
+        }
+    }
+
+    if(LHS == RHS)
+    {
+        return true;
+    }
+
+    else
+    {
+        return false;
+    }
+}
