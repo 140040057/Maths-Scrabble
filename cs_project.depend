@@ -1,0 +1,498 @@
+# depslib dependency file v1.0
+1427209870 source:c:\users\user\desktop\naman\cs_project\main_program.cpp
+	<simplecpp>
+	<graphics.h>
+
+1427209870 h>
+
+1426108729 c:\users\user\desktop\naman\cs_project\header_file.h
+	"scrabble_board.h"
+	"start_page.h"
+	"tiles_struct.h"
+	"initialisation_board.h"
+
+1426060130 ation_board.h"
+
+1426059608 c:\users\user\desktop\naman\cs_project\start_page_get_click.h
+
+1426108721 c:\users\user\desktop\naman\cs_project\start_page.h
+
+1428668003 c:\users\user\desktop\naman\cs_project\tiles_struct.h
+
+1426105113 c:\users\user\desktop\naman\cs_project\board.h
+
+1426105117 c:\users\user\desktop\naman\cs_project\only_array.h
+
+1428679903 c:\users\user\desktop\naman\cs_project\initialisation_board.h
+
+1426108801 c:\users\user\desktop\naman\cs_project\scrabble_board.h
+
+1426339430 source:h:\naman\cs_project\main_program.cpp
+	<simplecpp>
+
+1426339430 >
+
+1426060130 h:\naman\cs_project\header_file.h
+	"scrabble_board.h"
+	"start_page.h"
+	"tiles_struct.h"
+	"initialisation_board.h"
+
+1426060202 h:\naman\cs_project\scrabble_board.h
+
+1426060122 h:\naman\cs_project\start_page.h
+
+1426014464 h:\naman\cs_project\tiles_struct.h
+
+1426056518 h:\naman\cs_project\initialisation_board.h
+
+1427756439 source:c:\users\user\desktop\naman\cs_project\main.cpp
+	<iostream>
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	<simplecpp>
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+
+1429194177 y.h"
+
+1427210442 c:\users\user\desktop\naman\cs_project\tile_initialisation.h
+
+1427756888 c:\users\user\desktop\naman\cs_project\distribution_of_tiles.h
+
+1428669403 c:\users\user\desktop\naman\cs_project\exchange_and_pass.h
+
+1427560445 c:\users\user\desktop\naman\cs_project\basic_board.h
+
+1427212883 c:\users\user\desktop\naman\cs_project\draw_rectangle.h
+
+1427223424 c:\users\user\desktop\naman\cs_project\movement_of_tiles.h
+
+1266114014 c:\program files (x86)\codeblocks-simplecpp\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266114014 
+
+1426330990 source:c:\users\user\desktop\naman\cs_project\tile_movement.cpp
+	<simplecpp>
+	<iostream>
+
+1426330990 
+
+1427557707 c:\users\user\desktop\naman\cs_project\rectangle_detection.h
+
+1427756965 c:\users\user\desktop\naman\cs_project\copy_array.h
+
+1428676136 c:\users\user\desktop\naman\cs_project\feed_array.h
+
+1429006321 source:c:\users\user\desktop\naman\cs_project\main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"score_calculate.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1428711888 c:\users\user\desktop\naman\cs_project\char_to_int.h
+
+1428711888 c:\users\user\desktop\naman\cs_project\build_number_x.h
+
+1428711888 c:\users\user\desktop\naman\cs_project\build_number_y.h
+
+1429006223 c:\users\user\desktop\naman\cs_project\equation_validation.h
+
+1429006042 c:\users\user\desktop\naman\cs_project\equation_setup.h
+
+1429006020 c:\users\user\desktop\naman\cs_project\equation_identification.h
+
+1428732294 c:\users\user\desktop\naman\cs_project\final_permutation.h
+
+1428690659 c:\users\user\desktop\naman\cs_project\score_calculate.h
+
+1428995288 c:\users\user\desktop\naman\cs_project\artificial_intelligence2.h
+
+1429006741 c:\users\user\desktop\naman\cs_project\artificial_again.h
+
+1429001675 c:\users\user\desktop\naman\cs_project\ai_display.h
+
+1429010101 source:c:\users\user\google drive\cs_project_code_new\naman\cs_project\main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"score_board_value.h"
+	"score_calc.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1428664403 c:\users\user\google drive\cs_project_code_new\naman\cs_project\tiles_struct.h
+
+1427206842 c:\users\user\google drive\cs_project_code_new\naman\cs_project\tile_initialisation.h
+
+1427753288 c:\users\user\google drive\cs_project_code_new\naman\cs_project\distribution_of_tiles.h
+
+1428665803 c:\users\user\google drive\cs_project_code_new\naman\cs_project\exchange_and_pass.h
+
+1427556845 c:\users\user\google drive\cs_project_code_new\naman\cs_project\basic_board.h
+
+1427219824 c:\users\user\google drive\cs_project_code_new\naman\cs_project\movement_of_tiles.h
+
+1427554107 c:\users\user\google drive\cs_project_code_new\naman\cs_project\rectangle_detection.h
+
+1428676303 c:\users\user\google drive\cs_project_code_new\naman\cs_project\initialisation_board.h
+
+1427753365 c:\users\user\google drive\cs_project_code_new\naman\cs_project\copy_array.h
+
+1428672536 c:\users\user\google drive\cs_project_code_new\naman\cs_project\feed_array.h
+
+1428708288 c:\users\user\google drive\cs_project_code_new\naman\cs_project\char_to_int.h
+
+1428708288 c:\users\user\google drive\cs_project_code_new\naman\cs_project\build_number_x.h
+
+1428708288 c:\users\user\google drive\cs_project_code_new\naman\cs_project\build_number_y.h
+
+1429002623 c:\users\user\google drive\cs_project_code_new\naman\cs_project\equation_validation.h
+
+1429002442 c:\users\user\google drive\cs_project_code_new\naman\cs_project\equation_setup.h
+
+1429008018 c:\users\user\google drive\cs_project_code_new\naman\cs_project\equation_identification.h
+
+1428728694 c:\users\user\google drive\cs_project_code_new\naman\cs_project\final_permutation.h
+
+1428687059 c:\users\user\google drive\cs_project_code_new\naman\cs_project\score_calculate.h
+
+1429010205 c:\users\user\google drive\cs_project_code_new\naman\cs_project\artificial_again.h
+
+1428998075 c:\users\user\google drive\cs_project_code_new\naman\cs_project\ai_display.h
+
+1429005492 c:\users\user\google drive\cs_project_code_new\naman\cs_project\score_board_value.h
+
+1429008678 c:\users\user\google drive\cs_project_code_new\naman\cs_project\score_calc.h
+
+1429034654 source:f:\cs_pro_14_04_15\naman\cs_project\main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"score_board_value.h"
+	"score_calc.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1428664403 f:\cs_pro_14_04_15\naman\cs_project\tiles_struct.h
+
+1427206842 f:\cs_pro_14_04_15\naman\cs_project\tile_initialisation.h
+
+1427753288 f:\cs_pro_14_04_15\naman\cs_project\distribution_of_tiles.h
+
+1428665803 f:\cs_pro_14_04_15\naman\cs_project\exchange_and_pass.h
+
+1427556845 f:\cs_pro_14_04_15\naman\cs_project\basic_board.h
+
+1427219824 f:\cs_pro_14_04_15\naman\cs_project\movement_of_tiles.h
+
+1427554107 f:\cs_pro_14_04_15\naman\cs_project\rectangle_detection.h
+
+1428676303 f:\cs_pro_14_04_15\naman\cs_project\initialisation_board.h
+
+1427753365 f:\cs_pro_14_04_15\naman\cs_project\copy_array.h
+
+1428672536 f:\cs_pro_14_04_15\naman\cs_project\feed_array.h
+
+1428708288 f:\cs_pro_14_04_15\naman\cs_project\char_to_int.h
+
+1428708288 f:\cs_pro_14_04_15\naman\cs_project\build_number_x.h
+
+1428708288 f:\cs_pro_14_04_15\naman\cs_project\build_number_y.h
+
+1429005492 f:\cs_pro_14_04_15\naman\cs_project\score_board_value.h
+
+1429008678 f:\cs_pro_14_04_15\naman\cs_project\score_calc.h
+
+1429002623 f:\cs_pro_14_04_15\naman\cs_project\equation_validation.h
+
+1429038289 f:\cs_pro_14_04_15\naman\cs_project\equation_setup.h
+
+1429025921 f:\cs_pro_14_04_15\naman\cs_project\equation_identification.h
+
+1428728694 f:\cs_pro_14_04_15\naman\cs_project\final_permutation.h
+
+1429029895 f:\cs_pro_14_04_15\naman\cs_project\artificial_again.h
+
+1428998075 f:\cs_pro_14_04_15\naman\cs_project\ai_display.h
+
+1429197306 source:c:\users\user\desktop\naman_14-04-15\cs_project\main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"score_board_value.h"
+	"score_calc.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1428668003 c:\users\user\desktop\naman_14-04-15\cs_project\tiles_struct.h
+
+1429128258 c:\users\user\desktop\naman_14-04-15\cs_project\tile_initialisation.h
+
+1427756888 c:\users\user\desktop\naman_14-04-15\cs_project\distribution_of_tiles.h
+
+1428669403 c:\users\user\desktop\naman_14-04-15\cs_project\exchange_and_pass.h
+
+1427560445 c:\users\user\desktop\naman_14-04-15\cs_project\basic_board.h
+
+1427223424 c:\users\user\desktop\naman_14-04-15\cs_project\movement_of_tiles.h
+
+1427557707 c:\users\user\desktop\naman_14-04-15\cs_project\rectangle_detection.h
+
+1429127491 c:\users\user\desktop\naman_14-04-15\cs_project\initialisation_board.h
+
+1427756965 c:\users\user\desktop\naman_14-04-15\cs_project\copy_array.h
+
+1428676136 c:\users\user\desktop\naman_14-04-15\cs_project\feed_array.h
+
+1428711888 c:\users\user\desktop\naman_14-04-15\cs_project\char_to_int.h
+
+1428711888 c:\users\user\desktop\naman_14-04-15\cs_project\build_number_x.h
+
+1428711888 c:\users\user\desktop\naman_14-04-15\cs_project\build_number_y.h
+
+1429127632 c:\users\user\desktop\naman_14-04-15\cs_project\score_board_value.h
+
+1429012278 c:\users\user\desktop\naman_14-04-15\cs_project\score_calc.h
+
+1429006223 c:\users\user\desktop\naman_14-04-15\cs_project\equation_validation.h
+
+1429133596 c:\users\user\desktop\naman_14-04-15\cs_project\equation_setup.h
+
+1429029521 c:\users\user\desktop\naman_14-04-15\cs_project\equation_identification.h
+
+1428732294 c:\users\user\desktop\naman_14-04-15\cs_project\final_permutation.h
+
+1429128205 c:\users\user\desktop\naman_14-04-15\cs_project\artificial_again.h
+
+1429001675 c:\users\user\desktop\naman_14-04-15\cs_project\ai_display.h
+
+1429194177 source:c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"score_board_value.h"
+	"score_calc.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1429194179 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\tiles_struct.h
+
+1429194180 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\tile_initialisation.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\distribution_of_tiles.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\exchange_and_pass.h
+
+1429194163 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\basic_board.h
+
+1429194178 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\movement_of_tiles.h
+
+1429194179 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\rectangle_detection.h
+
+1429194173 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\initialisation_board.h
+
+1429194171 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\copy_array.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\feed_array.h
+
+1429194171 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\char_to_int.h
+
+1429194171 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\build_number_x.h
+
+1429194171 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\build_number_y.h
+
+1429194179 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\score_board_value.h
+
+1429194179 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\score_calc.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\equation_validation.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\equation_setup.h
+
+1429194172 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\equation_identification.h
+
+1429194173 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\final_permutation.h
+
+1429194162 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\artificial_again.h
+
+1429194162 c:\users\aditya pratap\downloads\naman_14-04-15\cs_project\ai_display.h
+
+1429194178 source:/media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/main1.cpp.cpp
+	<iostream>
+	"math.h"
+	"tiles_struct.h"
+	<cstdlib>
+	<ctime>
+	"tile_initialisation.h"
+	"distribution_of_tiles.h"
+	"exchange_and_pass.h"
+	<simplecpp>
+	"basic_board.h"
+	"movement_of_tiles.h"
+	"rectangle_detection.h"
+	"initialisation_board.h"
+	"copy_array.h"
+	"feed_array.h"
+	"char_to_int.h"
+	"build_number_x.h"
+	"build_number_y.h"
+	"score_board_value.h"
+	"score_calc.h"
+	"equation_validation.h"
+	"equation_setup.h"
+	"equation_identification.h"
+	"final_permutation.h"
+	"artificial_again.h"
+	"ai_display.h"
+
+1429194180 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/tiles_struct.h
+
+1429194180 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/tile_initialisation.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/distribution_of_tiles.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/exchange_and_pass.h
+
+1429194164 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/basic_board.h
+
+1429194178 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/movement_of_tiles.h
+
+1429194180 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/rectangle_detection.h
+
+1429194174 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/initialisation_board.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/copy_array.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/feed_array.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/char_to_int.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/build_number_x.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/build_number_y.h
+
+1429194180 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/score_board_value.h
+
+1429194180 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/score_calc.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/equation_validation.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/equation_setup.h
+
+1429194172 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/equation_identification.h
+
+1429194174 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/final_permutation.h
+
+1429194162 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/artificial_again.h
+
+1429194162 /media/140040054/AP PENDRIVE/Naman_14-04-15_final-1/cs_project/ai_display.h
+
